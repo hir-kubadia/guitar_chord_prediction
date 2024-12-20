@@ -11,7 +11,6 @@ import pickle
 warnings.filterwarnings('ignore')
 
 # Add logo
-st.image('as12.png', width=200)  # Update to use st.image for displaying the logo
 
 st.title('Guitar Chord Recognition')
 
